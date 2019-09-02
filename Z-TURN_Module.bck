@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MYIR-J1
+D Zturn Board
+K Zynq Embedded Board
+$ENDCMP
+#
+#End Doc Library
